@@ -1,2 +1,7 @@
-# DataBreakfast_materials
-files for Practical_ML and Junior_DS events
+# learning-curve-first-steps
+
+files and simple description for practice 
+- python programming,
+- EDA for datasets,
+- MLops tools usage,
+- ...
