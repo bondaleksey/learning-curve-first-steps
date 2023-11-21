@@ -4,6 +4,7 @@
 files and simple description for practice 
 - python programming,
 - EDA for datasets,
+- simple ML topics
 - MLops tools usage,
 - ...
 
